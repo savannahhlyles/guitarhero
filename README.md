@@ -1,2 +1,2 @@
-# Guitar Hero
-Guitar Hero gameplay for Art of Engineering common project.
+# Rhythm Rebel
+Guitar Hero style game for Art of Engineering common project.
